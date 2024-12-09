@@ -1,0 +1,30 @@
+body{background-color: rgb(110, 110, 109);}
+form{text-align: left;background-color:rgb(110, 110, 109);margin: 20px;}
+fieldset{color: rgb(121, 95, 13);;font-family:cursive;}
+legend{color:  rgb(192, 160, 55);font-family: cursive;font-size: 30px;}
+label{color:rgb(8, 8, 8);font-family: cursive;}
+input{color: rgb(14, 13, 13);font-family:cursive;}
+textarea{color:rgb(8, 8, 8);font-family: cursive;}
+.form-control{width: 40%;}
+h1{text-align: center;font-family: cursive;font-size: 50px;color: rgb(192, 160, 55);}
+h2{text-align: center;font-family: cursive;font-size: 35px;color: rgb(192, 160, 55);}
+p{color:rgb(189, 150, 23);font-family: cursive;}
+mark{background-color: rgb(231, 230, 226);}
+h4{text-align: center;font-family: cursive;color:rgb(192, 160, 55);font-size: 35px;}
+a:link{ color:rgb(22, 22, 22); background-color: transparent;text-decoration: none;}
+a:visited{color:rgb(43, 41, 37);background-color: transparent;text-decoration: none;}
+a:hover{color:rgb(224, 29, 29);background-color:transparent; text-decoration: underline;}
+a:active{color: yellow;background-color: transparent;text-decoration: underline;}
+.navbar{color: rgb(192, 160, 55);width: 100%;font-family: cursive;background-color:rgb(158, 158, 156);}
+.container-fluid{width: 100%;font-family: cursive;background-color: rgb(158, 158, 156);}
+.nav-link{color: rgb(8, 8, 8);width: 100%;}
+.navbar-nav{width: 100%;font-family: cursive;background-color: rgb(158, 158, 156); color: black;}
+.collapse{background-color: rgb(158, 158, 156);width: 100%;}
+.card{background-color: rgb(204, 195, 153);width: 1050px; height:500px;}
+.card-title{color: rgb(121, 95, 13);}
+.card-text{color: rgb(75, 74, 74);font-family: cursive;}
+.card-img-bottom{width: 1050px; height:300px;}
+.d-block{width: 750px; height: 1050px;}
+.btn{margin: 20px;}
+.card-img-top{width: 250px; height: 320px;margin: 20px;}
+.card-group{width: 95%;margin: 40px;}

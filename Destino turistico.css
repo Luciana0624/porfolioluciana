@@ -1,0 +1,59 @@
+body{background-color: rgb(240, 255, 250);font-size: medium;font-family: Verdana, Geneva, Tahoma, sans-serif;}
+h1{color: rgb(52, 197, 149);font-size: 80px;font-family: Verdana, Geneva, Tahoma, sans-serif;text-align: center;}
+p {font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 20px;color: rgb(36, 155, 115);}
+h5{font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 20px;color: rgb(52, 197, 149);font-size: 50px;text-align: center;}
+a:link{ color:rgb(83, 207, 180); background-color: transparent;text-decoration: none;}
+a:visited{color: rgb(73, 143, 82);background-color: transparent;text-decoration: none;}
+a:hover{color: red;background-color: transparent;text-decoration: underline;}
+a:active{color: yellow;background-color: transparent;text-decoration: underline;}
+a{margin: 20px;}
+table{color: rgb(35, 116, 89);font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 20px;text-align: center;}
+td{text-align: center; width: 25%;}
+ul{font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 20px;color: rgb(36, 155, 115);}
+form{font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 20px;color: rgb(10, 73, 52); text-align: left; width: 50%;}
+label{font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 20px;color: rgb(36, 155, 115);text-align: left; width: 50%;} 
+input{font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 20px;color: rgb(36, 155, 115);text-align: left; width: 50%;} 
+textarea{font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 20px;color: rgb(36, 155, 115);text-align: left; width: 50%;} 
+.carousel-item img {
+    width: 1550px; /* Ancho fijo */
+    height: 800px; /* Alto fijo */
+    object-fit: cover; /* Esto asegura que la imagen se ajuste sin perder su proporción */
+    margin: 0 auto; /* Centra la imagen */
+}
+.carousel-caption h5, 
+    .carousel-caption p {
+        color: white !important; /* Cambiar el color a blanco */
+    }
+    .carousel-caption {
+        background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
+        padding: 10px;
+    }
+.card-title{font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 20px;color: rgb(52, 197, 149);font-size: 30px;}
+.card-text{font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 20px;color: rgb(36, 155, 115);}
+.card{background-color:  azure;margin: 20px;}
+.img-fluid{width: 850px;height: 520px; padding: 40px}
+h6{font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 20px;color: rgb(52, 197, 149);font-size: 25px;text-align: left;}
+.imgFinal{background-image: url('imagenes/praia\ do\ rosa1.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 0;
+    width: 100%;
+    height: 1080px;
+}
+.imgInicio{background-image: url('imagenes/Praia\ do\ rosa\ playa.jpg');
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
+        margin: 0;
+        width: 100%;
+        height: 1080px;}
+.navbar{width: 100%; /* Ocupa el ancho completo */
+        background-color: rgb(63, 129, 103); /* Color de fondo */
+        color: rgb(82, 172, 127);}
+.container-fluid{width: 100%;color:  rgb(36, 155, 115);}
+.nav-link{color: rgb(15, 83, 46);font-family: Verdana, Geneva, Tahoma, sans-serif;width: 100%; }
+.navbar-nav{width: 100%; background-color:  rgb(141, 189, 170);}
+ .tablagastronomia{text-align: center;font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 20px;color: rgb(52, 197, 149);}
+.btn{width: 20%; margin: 20px;color: rgb(157, 228, 200);}
+.title-carrusel{font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 20px;color: rgb(52, 197, 149);font-size: 25px;text-align: center;}

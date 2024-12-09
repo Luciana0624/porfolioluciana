@@ -1,0 +1,26 @@
+body {background-color: bisque;font-size: medium;font-family: Verdana, Geneva, Tahoma, sans-serif;}
+p {color: rgb(171, 123, 216);font-size: 20px;font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 30px;}
+h1 {color: rgb(176, 117, 231);font-size: 60px;font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 50px;text-align: center;}
+h3 {color: rgb(177, 139, 212);font-size: 40px;font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 50px;text-align: left;}
+h4 {color: rgb(177, 139, 212);font-size: 30px;font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 50px;text-align: center;}
+ul {color: rgb(116, 17, 209);font-size: 20px;font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 30px;}
+mark {background-color: rgb(201, 167, 233);color: rgb(31, 30, 31);}
+.contenedor { display: grid; grid-template-columns: 60% 40%; align-items: right;}
+.contenedorIzq { display: grid; grid-template-columns: 40% 60%; align-items: left;}
+img {width: 80%;}
+label {color: rgb(171, 123, 216);font-size: 20px;font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 30px;}
+input {color: rgb(177, 139, 212);font-size: 20px;font-family: Verdana, Geneva, Tahoma, sans-serif;text-align: left;}
+select{color: rgb(177, 139, 212);font-size: 20px;font-family: Verdana, Geneva, Tahoma, sans-serif;text-align: left;}
+.form-control{text-align: left;width: 25%;margin: 30px;}
+.table {background-color: rgb(167, 62, 238);color: rgb(171, 123, 216); width: 150px; height: 250px; text-align: left; margin: 30px; text-align: left;font-size: 20px;font-family: Verdana, Geneva, Tahoma, sans-serif;}
+td{color: rgb(171, 123, 216);font-size: 20px;font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 30px;}
+.table-active{background-color: rgb(191, 164, 216); color: rgb(50, 37, 63);font-size: 20px;font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 50px;text-align: left;}
+.tbody{background-color: rgb(167, 62, 238); width: 150px; height: 250px; text-align: left; margin: 50px; text-align: left;font-size: 20px;font-family: Verdana, Geneva, Tahoma, sans-serif;}
+a {color: rgb(171, 123, 216);font-size: 20px;font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 30px;}
+.card-title{color: rgb(171, 123, 216);font-size: 30px;font-family: cursive, sans-serif;margin: 30px;}
+.card{background-color: bisque;font-size: medium;font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 30px;}
+.text-body-secondary{color: rgb(202, 180, 223);font-size: 15px;font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.navbar{background-color: rgb(160, 90, 181);font-size: 20px;font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.container-fluid{background-color: rgb(171, 123, 216);}
+.nav-link{color: bisque;font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.btn{margin: 30px;}

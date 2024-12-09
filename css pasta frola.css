@@ -1,0 +1,24 @@
+body{background-color: rgb(163, 130, 215);} 
+h1 {color: rgb(105, 42, 165);font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: 300%; margin: 50px; text-align: center;} 
+p {color: rgba(84, 13, 117, 0.269); font-family:Verdana, Geneva, Tahoma, sans-serif;} 
+h2 {color: rgb(105, 42, 165);font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; margin: 50px;font-size: 40px;}
+h3 {color: rgb(105, 42, 165);font-family: cursive;margin: 50px;}
+a:link {color: rgb(232, 228, 236); background-color:transparent;text-decoration:none;margin: 30px;}
+a:visited {color: rgb(243, 242, 245);background-color: transparent;text-decoration: none;}
+a:hover {color: rgb(237, 13, 203);background-color: transparent;text-decoration: underline;}
+a:active {color: rgb(228, 52, 61);background-color: transparent;text-decoration: underline;}
+ul{color: rgb(214, 187, 239);font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 50px;}
+li{color: rgb(97, 52, 146)}
+ol{color: rgb(214, 187, 239);font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 50px;}
+th{color: rgb(192, 169, 221);font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; margin: 50px;font-size: 30px;}
+.Planificacion{width: 600px;height: 750px; margin:50px}
+h5{color: rgb(105, 42, 165);font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 50px;}
+.card{background-color: rgb(187, 168, 205);margin: 50px;width: 80%;}
+.card-title{color: rgb(105, 42, 165);font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.card-text{color: rgb(97, 52, 146);font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.table-danger{background-color: rgb(141, 27, 126);font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; margin: 50px;width: 50%;}
+td{color: rgb(192, 165, 219);font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; margin: 50px;font-size: 30px;}
+.table-dangerPlanificacion{background-color: rgb(146, 41, 130);font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; margin: 50px;width: 90%;}
+.navbar{background-color: rgb(167, 114, 224); width: 100%;}
+.container-fluid{background-color: rgb(167, 114, 224); width: 100%;color: rgb(97, 52, 146);font-family: Verdana, Geneva, Tahoma, sans-serif; ;}
+.btn{margin: 50px;}

@@ -1,0 +1,79 @@
+header{background-color: rgb(20, 12, 12);font-family: Arial, Helvetica, sans-serif;font-size: 20px;margin: 0px;color: yellow;}
+h1{text-align: center;font-family: Arial, Helvetica, sans-serif;font-size: 60px;margin: 15px;color: rgb(243, 235, 160)}
+nav{background-color: rgb(20, 20, 20);font-family: Arial, Helvetica, sans-serif;font-size: 20px;}
+nav ul{list-style-type: none; margin: 0px; padding: 20px;display: flex; justify-content: space-between;width: 100%;}
+nav ul li{flex-grow: 1;}
+nav ul li a{display: block;text-align: center;padding: 20px; color: rgb(218, 221, 42); text-decoration: none; background-color: rgb(241, 214, 61);}
+nav ul li a:hover {background-color: rgb(221, 224, 15);}
+body{background-color: black;font-family: Arial, Helvetica, sans-serif;font-size: 20px;margin: 20px;color: white;}
+p{font-family: Arial, Helvetica, sans-serif;font-size: 20px;margin: 15px;color: white;}
+
+.card{ width: 100%; padding: 25px; text-align: center; background-color: rgb(65, 63, 63);}
+.card-title{ text-align: center; font-family: Arial, Helvetica, sans-serif;font-size: 40px;margin: 15px;color: white;}
+.card-text{text-align: center; font-family: Arial, Helvetica, sans-serif;margin: 15px;color: white;}
+h3{text-align: center;font-family: Arial, Helvetica, sans-serif;margin: 15px;color: rgb(243, 235, 160);font-size: 50px;}
+.card-group{padding: 25px; text-align: center; background-color: rgb(65, 63, 63);}
+.card-img-top-rutina{width: 450px; height: 300px;text-align: center;margin: 50px; ;}
+.card-title-rutina{font-size: 30px; text-align: center; font-family: Arial, Helvetica, sans-serif;margin: 15px;color: rgb(245, 247, 243);}
+.card-text-rutina{font-size: 20px; text-align: center; font-family: Arial, Helvetica, sans-serif;margin: 15px;color: rgb(243, 235, 160);}
+.text-body-secondary-rutina{font-size: 15px; text-align: center; font-family: Arial, Helvetica, sans-serif;margin: 15px;color: rgb(243, 235, 160);}
+a:link{ color:rgb(231, 229, 103); background-color: transparent;text-decoration: none;}
+a:visited{color: white;background-color: transparent;text-decoration: none;}
+a:hover{color: red;background-color: transparent;text-decoration: underline;}
+a:active{color: yellow;background-color: transparent;text-decoration: underline;}
+.card-img-link{width: 1700px; height: 550px;text-align: center;margin: 50px; object-fit: cover; /* Esto asegura que la imagen se ajuste sin perder su proporción */}
+.card-img-overlay{ position: absolute; /* Coloca el texto sobre la imagen */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 200px;
+    background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;}
+.card-link{ position: relative; /* Permite posicionar el texto superpuesto */
+    overflow: hidden; /* Asegura que el contenido no salga de la tarjeta */}
+.card-link-horarios{position: relative; /* Permite posicionar el texto superpuesto */
+    overflow: hidden; /* Asegura que el contenido no salga de la tarjeta */
+width: 50%;}
+.card-img-horario{width: 900px;height: 550px; text-align: left;margin: 50px; object-fit: cover; /* Esto asegura que la imagen se ajuste sin perder su proporción */}
+.card-img-overlay-horario{position: absolute; /* Coloca el texto sobre la imagen */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 200px;
+    background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    font-size: 1.5rem;}
+.card-link-niños{position: relative; /* Permite posicionar el texto superpuesto */
+    overflow: hidden; /* Asegura que el contenido no salga de la tarjeta */
+width: 50%;}
+.card-img-niños{width: 900px;height: 550px; text-align: right;margin: 50px; object-fit: cover; /* Esto asegura que la imagen se ajuste sin perder su proporción */}
+.card-img-overlay-niños{position: absolute; /* Coloca el texto sobre la imagen */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 200px;
+    background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: right;
+font-size: 1.5rem;}
+h5{text-align: left;font-family: Arial, Helvetica, sans-serif;margin: 15px;color: rgb(243, 235, 160);font-size: 50px;}
+button{background-color:  rgb(161, 146, 2);color: black;text-align: left;font-family: Arial, Helvetica, sans-serif;margin: 15px;}
+.card-img-top-Membresias{width: 550px; height: 300px;}
+.form-control{width: 30%;font-family: Arial, Helvetica, sans-serif;}
+.Paginaprincipal{color: rgb(243, 235, 160);}
+.table{background-color: rgb(243, 235, 160);font-family: Arial, Helvetica, sans-serif;margin: 80px;width: 1050px;height: 700px; text-align: center;}
+h6{text-align: left;font-family: cursive;margin: 15px;color: white;font-size: 30px;}
+footer{text-align: center;}
+.btn{width: 30%;}
+.form-text{color: rgb(243, 235, 160)}
