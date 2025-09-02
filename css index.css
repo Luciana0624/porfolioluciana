@@ -35,3 +35,14 @@ textarea{color:  rgb(115, 75, 155);font-family: Verdana, Geneva, Tahoma, sans-se
         background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
         padding: 10px;
     }
+    /* Para tablets y celulares */
+@media (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .contenedor {
+    flex-direction: column;
+  }
+}
